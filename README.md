@@ -114,7 +114,7 @@ K
 Keluar dari program.
 ```
 ## Flowcart
-![Diagram Tanpa Judul](https://github.com/user-attachments/assets/0ff58f7e-5ecd-493c-9d5b-23767d56f07f)
+![flowcart sela pert10](https://github.com/user-attachments/assets/76eeb08d-a043-4e64-9cbe-de705b0ecdb7)
 
 
 ## Penjelasan 
